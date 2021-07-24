@@ -1,21 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6212
-Fork on GitHub
-1080
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pulkit-mittal-3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-mittal-3108" height="30" width="40" /></a>
