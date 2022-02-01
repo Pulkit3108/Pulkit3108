@@ -31,36 +31,3 @@ alt="pulkit3108" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit3108&theme=dark" /></a>
   </div>
 </p>
-## Hi there 👋 I'm Pulkit Mittal
-<br/>
-<img src="https://komarev.com/ghpvc/?username=pulkit3108" 
-alt="pulkit3108" />
-
-- 📫 How to reach me **pulkitmittal3108@gmail.com**
-
-
-### Connect With Me 🤝:
-
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30">](https://linkedin.com/in/pulkit-mittal-3108/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="30">](https://kaggle.com/p500068183/)  | [<img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="codechef" width="30">](https://www.codechef.com/users/pulkit3108)  |  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="30">](https://www.hackerrank.com/pulkitmittal3108/) |  [<img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="codeforces" width="30">](https://codeforces.com/profile/500068183/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="30">](https://www.leetcode.com/pulkit3108/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackerearth" width="30">](https://www.hackerearth.com/@500068183/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" width="30">](https://auth.geeksforgeeks.org/user/500068183/)
-|---|---|---|---|---|---|---|---|
-
-### Programming Languages 🌐:
-
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35">](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="35">](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170/)  | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35">](https://docs.oracle.com/en/java/)  |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="bootstrap" width="35">](https://docs.python.org/3/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) | [<img src="https://static.wikia.nocookie.net/logopedia/images/0/02/HTML5_logo.svg/revision/latest/scale-to-width-down/150?cb=20110118165238" alt="html" width="35">](https://developer.mozilla.org/en-US/docs/Web/HTML/) | [<img src="https://static.wikia.nocookie.net/logopedia/images/1/1d/CSS3_logo_and_wordmark.svg.png/revision/latest/scale-to-width-down/189?cb=20210613082546" alt="css" width="35">](https://developer.mozilla.org/en-US/docs/Web/CSS/) | [<img src="https://static.wikia.nocookie.net/logopedia/images/3/3d/Go_Logo.svg/revision/latest/scale-to-width-down/300?cb=20190830231924" alt="go" width="50">](https://go.dev/doc/)
-|---|---|---|---|---|---|---|---|
-
-
-### Tools 🛠️:
-
-| [<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-640x400.png" alt="mysql" width="50">](https://dev.mysql.com/doc/) | [<img src="https://static.wikia.nocookie.net/logopedia/images/b/b7/Git_%28no_text%29.svg/revision/latest/scale-to-width-down/180?cb=20211229120036" alt="git" width="30">](https://git-scm.com/doc) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="30">](https://reactjs.org/docs/getting-started.html) | [<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="30">](https://learning.postman.com/docs/getting-started/introduction/) | [<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="30">](https://getbootstrap.com/docs/5.1/getting-started/introduction/) |  [<img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" alt="android_studio" width="30">](https://developer.android.com/docs/) | [<img src="https://static.wikia.nocookie.net/logopedia/images/9/9a/Visual_Studio_Code_1.35_icon.svg/revision/latest/scale-to-width-down/250?cb=20210214021847" alt="vscode" width="30">](https://code.visualstudio.com/docs)  |  [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Docker-Logo-White-RGB_Vertical.png" alt="docker" width="30">](https://docs.docker.com/) | [<img src="https://devcenter3.assets.heroku.com/assets/public/devcenter-logo-4926eb38aabfae3bce48928732e3d320de6c723f89c416d016a9ce2e8f378d79.svg" alt="heroku" width="30">](https://devcenter.heroku.com/categories/reference) | [<img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="tensorflow" width="30">](https://www.tensorflow.org/api_docs) | [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30">](https://docs.opencv.org/4.x/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" width="30">](https://scikit-learn.org/stable/) |  [<img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="35">](https://docs.djangoproject.com/en/4.0/) | [<img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="flask" width="30">](https://flask.palletsprojects.com/en/2.0.x/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="30">](https://jupyter-notebook.readthedocs.io/en/stable/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30">](https://www.linux.org/)
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-
-### Github Stats 💻:
-
-<p align="centre">
- <div align = "center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pulkit3108&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit3108&theme=dark" /></a>
-  </div>
-</p>
