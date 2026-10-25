@@ -12,6 +12,12 @@ Backend systems · Automation · Cloud operations · AI engineering
 
 I build practical software across backend systems, automation, cloud operations, AI-assisted engineering, web applications, and applied machine learning.
 
+## Selected projects
+
+- **[Resume Automation](https://github.com/Pulkit3108/resume-automation):** An installable cross-platform CLI for verified, scheduled résumé updates across job portals, with provider adapters, secure keyring credentials, Playwright, and native schedulers.
+- **[Portable Agent Knowledge Base](https://github.com/Pulkit3108/Knowledge-base):** A reusable, agent-agnostic framework for durable project context, repeatable workflows, and safe collaboration.
+- **[Portfolio](https://pulkit3108.github.io/):** A minimal terminal-inspired view of selected engineering work, capabilities, and professional credentials.
+
 ## Coding profiles
 
 More than 1,000 problems solved across data structures, algorithms, and competitive programming.
