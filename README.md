@@ -2,26 +2,15 @@
 
 ```text
 pulkit@github:~$ whoami
-Software Engineer
+Software Development Engineer II @ Oracle
 
 pulkit@github:~$ focus
-Backend systems · Automation · Cloud operations · AI engineering
+Java backend · Cloud & distributed systems · AI-assisted engineering
 ```
 
-[Portfolio](https://pulkit3108.github.io/) · [Repositories](https://github.com/Pulkit3108?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/pulkit-mittal-3108/) · [Email](mailto:pulkitmittal3108@gmail.com)
+I enjoy solving complex engineering problems, learning deeply, and turning repetitive work into reliable automation.
 
-I build practical software across backend systems, automation, cloud operations, AI-assisted engineering, web applications, and applied machine learning prototypes.
-
-## Projects
-
-- **[Knowledge Base](https://github.com/Pulkit3108/Knowledge-base):**
-  A reusable framework for AI-assisted engineering across the software development lifecycle,
-  with persistent project context, runbooks, source verification, validation, and human approval gates.
-- **[Resume Automation](https://github.com/Pulkit3108/resume-automation):**
-  A cross-platform CLI for scheduled résumé updates on job portals, with an extensible provider
-  interface, secure credentials, upload verification, and native OS scheduling.
-- **[Portfolio](https://pulkit3108.github.io/):**
-  A terminal-inspired view of selected engineering work, capabilities, and professional credentials.
+[Portfolio](https://pulkit3108.github.io/) · [Résumé (PDF)](https://pulkit3108.github.io/assets/Pulkit_Mittal_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/pulkit-mittal-3108/) · [Email](mailto:pulkitmittal3108@gmail.com) · [Repositories](https://github.com/Pulkit3108?tab=repositories)
 
 ## Coding profiles
 
