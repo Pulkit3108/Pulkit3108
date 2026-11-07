@@ -10,7 +10,7 @@ Java backend · Cloud & distributed systems · AI-assisted engineering
 
 I enjoy solving complex engineering problems, learning deeply, and turning repetitive work into reliable automation.
 
-[Portfolio](https://pulkit3108.github.io/) · [Résumé (PDF)](https://pulkit3108.github.io/assets/Pulkit_Mittal_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/pulkit-mittal-3108/) · [Email](mailto:pulkitmittal3108@gmail.com) · [Repositories](https://github.com/Pulkit3108?tab=repositories)
+[Portfolio](https://pulkit3108.github.io/) · [Résumé (PDF)](https://pulkit3108.github.io/assets/Pulkit_Mittal_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/pulkit-mittal-3108/) · [Email](mailto:pulkitmittal3108@gmail.com)
 
 ## Coding profiles
 
